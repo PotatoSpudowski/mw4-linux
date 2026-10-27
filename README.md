@@ -6,7 +6,7 @@ Checks your build, backs up affected files, patches startup and launches the gam
 
 <img src="assets/linux-gaming.png" alt="Install MW4 on Linux. Try Proton and Wine. Game still will not launch. Patch the binary yourself." width="680">
 
-**Alpha:** reached the campaign menu on Bazzite with an RX 7900 XTX. Nine regression tests, a live tracing test and file restore passed. Full gameplay and controller testing remain open.
+**Alpha:** campaign gameplay tested by the author on Bazzite with an RX 7900 XTX. Nine regression tests, a live tracing test and file restore also passed. Full campaign completion and broader controller testing remain open.
 
 ## Before you start
 

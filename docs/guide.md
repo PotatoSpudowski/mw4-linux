@@ -8,13 +8,13 @@
 Windows campaign files → apply patch → launch through Proton → Linux
 ```
 
-**Alpha · Linux x86-64 · offline campaign.** Tested to the campaign menu on Bazzite with an RX 7900 XTX and i5-12400F. Includes backup/restore, nine regression tests and a live ptrace test.
+**Alpha · Linux x86-64 · offline campaign.** Campaign gameplay tested by the author on Bazzite with an RX 7900 XTX and i5-12400F. Includes backup/restore, nine regression tests and a live ptrace test.
 
 ### Supported build
 
 Windows campaign download page: [FitGirl — Call of Duty: Modern Warfare 4](https://fitgirl-repacks.site/call-of-duty-modern-warfare-4/). Run `doctor` on the installed files before patching: this link alone does not establish that its current download matches the supported fingerprints.
 
-The current profile requires the exact offline campaign executable and `rex_sp.dll` fingerprints in [build_profile.py](../build_profile.py). `doctor` checks these before you install. Other builds, untouched retail installations, multiplayer and macOS are currently unsupported. Full campaign and controller testing remain open; see the [validation record](../research/validation.md).
+The current profile requires the exact offline campaign executable and `rex_sp.dll` fingerprints in [build_profile.py](../build_profile.py). `doctor` checks these before you install. Other builds, untouched retail installations, multiplayer and macOS are currently unsupported. Full campaign completion and broader controller testing remain open; see the [validation record](../research/validation.md).
 
 ## Requirements
 

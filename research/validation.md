@@ -30,9 +30,13 @@ Successful trace (addresses are run-specific):
 
 After the menu check, the isolated process was stopped and real-file restore succeeded. Doctor reported the original unprepared Rex fingerprint again. The working installation was not modified.
 
+## Follow-up gameplay confirmation
+
+The author subsequently confirmed playing the patched campaign, beyond the menu. This is a hands-on gameplay report, separate from the isolated tracing test above. Test duration, missions completed, controller coverage and full campaign completion were not specified.
+
 ## Outstanding release gates
 
-- Repeated launches and controlled campaign gameplay with this helper.
+- Repeated launches, longer gameplay sessions and full campaign completion.
 - Fresh prefix provisioning and Steam/controller focus integration.
 - Thread-race and signal-handling stress tests on synthetic fixtures.
 - Reproducible source build/provenance for the tested graphics overrides, then an ablation against stock GE libraries.
