@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tests/trace_fixture
+.mw4-linux/
+*.dll
+*.exe
+*.backup
